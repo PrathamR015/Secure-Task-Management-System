@@ -1,4 +1,4 @@
-# 📝 To-Do List React App
+# 📝 Secure Task Management System
 
 A **full-stack To-Do List application** built using **React, Node.js, Express, and MongoDB**.
 This app helps users efficiently manage daily tasks with authentication, email support, and a clean UI.
