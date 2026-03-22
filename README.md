@@ -36,7 +36,6 @@ The project follows a **frontend–backend separation**, making it scalable and 
 * MongoDB (Mongoose)
 * JWT Authentication
 * Nodemailer
-* dotenv
 
 ---
 
