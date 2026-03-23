@@ -158,6 +158,7 @@ http://localhost:3000
 * Drag-and-drop task ordering
 * Dark mode
 * Deployment to cloud platforms
+* Integrate AI to enhance the working
 
 
 
