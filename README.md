@@ -90,7 +90,7 @@ npm install
 
 ## ⚙️ Configuration
 
-Create a `.env` file inside the **backend** directory and add the following:
+Create a `.env` file inside the **backend** folder and add the following:
 
 ```env
 MONGO_URI=your_mongodb_connection_string
